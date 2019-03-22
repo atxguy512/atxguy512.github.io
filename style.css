@@ -1,0 +1,40 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    /* background-image: url(background.png);
+    background-repeat: no-repeat; */
+    /* background: linear-gradient(to right,#00ccff, #b3f0ff); */
+    /* text-align: center; */
+}
+
+.container, h1 {
+    color: rgb(19, 12, 12);
+    text-shadow: 2px 2px 5px rgb(20, 19, 19);
+    font-family: sans-serif;
+    line-height: 1rem;
+}
+
+.borderImg {
+    border: 2px solid red;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: yellowgreen;
+    word-spacing: 10px;
+    text-transform: uppercase;
+}
+/* .square {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: auto;
+} */
+
+/* #circle {
+    color: rgb(59, 21, 21);
+    font-size: 40px;
+} */
